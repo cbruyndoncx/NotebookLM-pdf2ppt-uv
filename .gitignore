@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pptx
+_pdf2ppt.tmp/
+*_svg/
+.env
